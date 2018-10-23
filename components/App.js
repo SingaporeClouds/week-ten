@@ -10,6 +10,7 @@ export default {
   name: `App`,
   data() {
     return {
+      title: "Chris is hungry.",
       currentChart: "localBarData",
       localBarData: [
         ["Jan", 4],
